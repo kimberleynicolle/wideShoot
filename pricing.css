@@ -1,0 +1,123 @@
+nav
+{
+  background-color: grey;
+}
+
+.navbar-brand
+{
+  font-size: 2px;
+  font-family: cursive;
+  cursor: pointer;
+  margin-left: 5%;
+  float: left;
+  line-height: 2;
+}
+.navbar-brand:hover
+{
+color: #ff914D !important;
+
+}
+
+
+li a 
+{
+  margin-top: 10px;
+  color: #000000;
+}
+
+li a:hover
+{
+  text-decoration: underline;
+  border: none;
+  color: #ff914D !important;
+}
+
+ul li 
+{
+  margin: 2px;
+  padding: 5px;
+  position: relative;
+  display: inline-block;
+  color: #000000;
+}
+.topsocial
+{
+float: right;
+margin-top: 20px;
+padding-right: 20px;
+color: #000000;
+}
+
+.socialmedia
+{
+  padding: 10 40px;
+}
+
+.socialmedia a 
+{
+  padding: 5 15px;
+
+}
+
+.btn-outline-primary
+{
+
+  border-color: #ff914D;
+  color: #ffffff;
+  background-color: #ff914D;
+}
+
+.btn-outline-primary:hover
+{
+border-color: #ff914D;
+color: #ff914D;
+background-color: #ffffff;
+
+}
+
+
+.btn-outline-primary
+{
+
+  border-color: #ff914D;
+  color: #ffffff;
+  background-color: #ff914D;
+}
+
+.btn-outline-primary:hover
+{
+border-color: #ff914D;
+color: #ff914D;
+background-color: #ffffff;
+
+}
+
+.container 
+{
+  max-width: 960px;
+}
+
+.pricing-header {
+  max-width: 700px;
+}
+
+
+.btn-primary {
+
+  border-color: #ff914D;
+  color: #ffffff;
+  background-color: #ff914D;
+}
+
+.btn-outline-primary{
+
+  border-color: #ff914D;
+  color: #ffffff;
+  background-color: #ff914D;
+}
+
+.fw-normal {
+
+  color: #ff914D!important;
+  }
+
